@@ -1,0 +1,289 @@
+Generated random:
+N =  1000  Max =  1000 :
+Sortare corecta 0.02402186393737793 seconds insertionSort
+Sortare corecta 0.0 seconds countSort
+Sortare corecta 0.0010008811950683594 seconds radixSort
+Sortare corecta 0.004004001617431641 seconds mergeSort
+Sortare corecta 0.0020020008087158203 seconds shellSort
+Sortare corecta 0.057051658630371094 seconds bubbleSort
+Sortare corecta 0.002002716064453125 seconds radixSort_8
+Sortare corecta 0.015013694763183594 seconds radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  10000  Max =  1000 :
+Sortare corecta 2.523293972015381 seconds insertionSort
+Sortare corecta 0.002001523971557617 seconds countSort
+Sortare corecta 0.008006572723388672 seconds radixSort
+Sortare corecta 0.056051015853881836 seconds mergeSort
+Sortare corecta 0.036032676696777344 seconds shellSort
+Sortare corecta 6.686097860336304 seconds bubbleSort
+Sortare corecta 0.021018266677856445 seconds radixSort_8
+Sortare corecta 0.023019790649414062 seconds radixSort_16
+Sortare corecta 0.0010020732879638672 seconds Default Python Sort
+
+
+N =  100000  Max =  1000 :
+Sortare corecta 265.60192346572876 seconds insertionSort
+Sortare corecta 0.01601576805114746 seconds countSort
+Sortare corecta 0.08307552337646484 seconds radixSort
+Sortare corecta 0.6786224842071533 seconds mergeSort
+Sortare corecta 0.5242280960083008 seconds shellSort
+Sortare corecta 721.6923620700836 seconds bubbleSort
+Sortare corecta 0.23921656608581543 seconds radixSort_8
+Sortare corecta 0.08607864379882812 seconds radixSort_16
+Sortare corecta 0.014012813568115234 seconds Default Python Sort
+
+
+N =  1000  Max =  10000 :
+Sortare corecta 0.02502298355102539 seconds insertionSort
+Sortare corecta 0.002002239227294922 seconds countSort
+Sortare corecta 0.0 seconds radixSort
+Sortare corecta 0.004002809524536133 seconds mergeSort
+Sortare corecta 0.0020017623901367188 seconds shellSort
+Sortare corecta 0.05905485153198242 seconds bubbleSort
+Sortare corecta 0.0020012855529785156 seconds radixSort_8
+Sortare corecta 0.015012741088867188 seconds radixSort_16
+Sortare corecta 0.0010018348693847656 seconds Default Python Sort
+
+
+N =  1000  Max =  100000 :
+Sortare corecta 0.025022506713867188 seconds insertionSort
+Sortare corecta 0.017015457153320312 seconds countSort
+Sortare corecta 0.0010018348693847656 seconds radixSort
+Sortare corecta 0.004002809524536133 seconds mergeSort
+Sortare corecta 0.002001523971557617 seconds shellSort
+Sortare corecta 0.058052778244018555 seconds bubbleSort
+Sortare corecta 0.0020020008087158203 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  1000000 :
+Sortare corecta 0.024021625518798828 seconds insertionSort
+Sortare corecta 0.16715264320373535 seconds countSort
+Sortare corecta 0.0010013580322265625 seconds radixSort
+Sortare corecta 0.004003763198852539 seconds mergeSort
+Sortare corecta 0.0020024776458740234 seconds shellSort
+Sortare corecta 0.05705142021179199 seconds bubbleSort
+Sortare corecta 0.002002239227294922 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  10000000 :
+Sortare corecta 0.02502274513244629 seconds insertionSort
+Sortare corecta 1.74058198928833 seconds countSort
+Sortare corecta 0.002001523971557617 seconds radixSort
+Sortare corecta 0.004003286361694336 seconds mergeSort
+Sortare corecta 0.0030028820037841797 seconds shellSort
+Sortare corecta 0.058053016662597656 seconds bubbleSort
+Sortare corecta 0.0020020008087158203 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  100000000 :
+Sortare corecta 0.02402186393737793 seconds insertionSort
+Sortare corecta 17.630321502685547 seconds countSort
+Sortare corecta 0.001001119613647461 seconds radixSort
+Sortare corecta 0.0050046443939208984 seconds mergeSort
+Sortare corecta 0.0020017623901367188 seconds shellSort
+Sortare corecta 0.06196475028991699 seconds bubbleSort
+Sortare corecta 0.0020020008087158203 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+[Nearly Sorted Array:
+N =  1000  Max =  1000 :
+Sortare corecta 0.0020017623901367188 seconds insertionSort
+Sortare corecta 0.0 seconds countSort
+Sortare corecta 0.0010006427764892578 seconds radixSort
+Sortare corecta 0.005005598068237305 seconds mergeSort
+Sortare corecta 0.0010004043579101562 seconds shellSort
+Sortare corecta 0.03503131866455078 seconds bubbleSort
+Sortare corecta 0.0020017623901367188 seconds radixSort_8
+Sortare corecta 0.015013694763183594 seconds radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  10000  Max =  1000 :
+Sortare corecta 0.013010501861572266 seconds insertionSort
+Sortare corecta 0.0020020008087158203 seconds countSort
+Sortare corecta 0.007005929946899414 seconds radixSort
+Sortare corecta 0.05404973030090332 seconds mergeSort
+Sortare corecta 0.016015291213989258 seconds shellSort
+Sortare corecta 3.740398406982422 seconds bubbleSort
+Sortare corecta 0.018016576766967773 seconds radixSort_8
+Sortare corecta 0.021018266677856445 seconds radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  100000  Max =  1000 :
+Sortare corecta 0.1481325626373291 seconds insertionSort
+Sortare corecta 0.018015384674072266 seconds countSort
+Sortare corecta 0.10209274291992188 seconds radixSort
+Sortare corecta 0.6686065196990967 seconds mergeSort
+Sortare corecta 0.19717907905578613 seconds shellSort
+Sortare corecta 412.63363432884216 seconds bubbleSort
+Sortare corecta 0.20350265502929688 seconds radixSort_8
+Sortare corecta 0.08403396606445312 seconds radixSort_16
+Sortare corecta 0.002002239227294922 seconds Default Python Sort
+
+
+N =  10000  Max =  10000 :
+Sortare corecta 0.014012813568115234 seconds insertionSort
+Sortare corecta 0.004003763198852539 seconds countSort
+Sortare corecta 0.010008573532104492 seconds radixSort
+Sortare corecta 0.0520472526550293 seconds mergeSort
+Sortare corecta 0.017015457153320312 seconds shellSort
+Sortare corecta 3.935576915740967 seconds bubbleSort
+Sortare corecta 0.019017457962036133 seconds radixSort_8
+Sortare corecta 0.02201986312866211 seconds radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  10000  Max =  100000 :
+Sortare corecta 0.01501321792602539 seconds insertionSort
+Sortare corecta 0.018016576766967773 seconds countSort
+Sortare corecta 0.011010408401489258 seconds radixSort
+Sortare corecta 0.053048133850097656 seconds mergeSort
+Sortare corecta 0.01901698112487793 seconds shellSort
+Sortare corecta 3.7363953590393066 seconds bubbleSort
+Sortare corecta 0.01901698112487793 seconds radixSort_8
+Sortare corecta 0.022020339965820312 seconds radixSort_16
+Sortare corecta 0.0010018348693847656 seconds Default Python Sort
+
+
+N =  10000  Max =  1000000 :
+Sortare corecta 0.015013933181762695 seconds insertionSort
+Sortare corecta 0.17515921592712402 seconds countSort
+Sortare corecta 0.011010408401489258 seconds radixSort
+Sortare corecta 0.051046133041381836 seconds mergeSort
+Sortare corecta 0.019017934799194336 seconds shellSort
+Sortare corecta 3.815467357635498 seconds bubbleSort
+Sortare corecta 0.01901721954345703 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0010008811950683594 seconds Default Python Sort
+
+
+N =  10000  Max =  10000000 :
+Sortare corecta 0.01601433753967285 seconds insertionSort
+Sortare corecta 1.7876245975494385 seconds countSort
+Sortare corecta 0.013011455535888672 seconds radixSort
+Sortare corecta 0.0520472526550293 seconds mergeSort
+Sortare corecta 0.019017696380615234 seconds shellSort
+Sortare corecta 3.7273857593536377 seconds bubbleSort
+Sortare corecta 0.01901698112487793 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  10000  Max =  100000000 :
+Sortare corecta 0.01501321792602539 seconds insertionSort
+Sortare corecta 17.531173706054688 seconds countSort
+Sortare corecta 0.017015457153320312 seconds radixSort
+Sortare corecta 0.054106712341308594 seconds mergeSort
+Sortare corecta 0.018016815185546875 seconds shellSort
+Sortare corecta 3.7526047229766846 seconds bubbleSort
+Sortare corecta 0.019017457962036133 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+Sorted reversed:
+N =  10000  Max =  1000 :
+Sortare corecta 5.292120456695557 seconds insertionSort
+Sortare corecta 0.002001523971557617 seconds countSort
+Sortare corecta 0.008006811141967773 seconds radixSort
+Sortare corecta 0.05004572868347168 seconds mergeSort
+Sortare corecta 0.02101874351501465 seconds shellSort
+Sortare corecta 9.248378276824951 seconds bubbleSort
+Sortare corecta 0.01901721954345703 seconds radixSort_8
+Sortare corecta 0.021018028259277344 seconds radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  1000 :
+Sortare corecta 0.05404806137084961 seconds insertionSort
+Sortare corecta 0.0010006427764892578 seconds countSort
+Sortare corecta 0.001001596450805664 seconds radixSort
+Sortare corecta 0.0040035247802734375 seconds mergeSort
+Sortare corecta 0.0020017623901367188 seconds shellSort
+Sortare corecta 0.08807921409606934 seconds bubbleSort
+Sortare corecta 0.0020020008087158203 seconds radixSort_8
+Sortare corecta 0.016015291213989258 seconds radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  100000  Max =  1000 :
+Sortare corecta 555.8084895610809 seconds insertionSort
+Sortare corecta 0.02902674674987793 seconds countSort
+Sortare corecta 0.12711572647094727 seconds radixSort
+Sortare corecta 0.6991040706634521 seconds mergeSort
+Sortare corecta 0.3433103561401367 seconds shellSort
+Sortare corecta 1009.7146062850952 seconds bubbleSort
+Sortare corecta 0.1999821662902832 seconds radixSort_8
+Sortare corecta 0.0840005874633789 seconds radixSort_16
+Sortare corecta 0.0020012855529785156 seconds Default Python Sort
+
+
+N =  1000  Max =  10000 :
+Sortare corecta 0.04904365539550781 seconds insertionSort
+Sortare corecta 0.002001047134399414 seconds countSort
+Sortare corecta 0.0010013580322265625 seconds radixSort
+Sortare corecta 0.0040035247802734375 seconds mergeSort
+Sortare corecta 0.001001119613647461 seconds shellSort
+Sortare corecta 0.08607864379882812 seconds bubbleSort
+Sortare corecta 0.0020020008087158203 seconds radixSort_8
+Sortare corecta 0.016014575958251953 seconds radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  100000 :
+Sortare corecta 0.05104660987854004 seconds insertionSort
+Sortare corecta 0.018016576766967773 seconds countSort
+Sortare corecta 0.0010018348693847656 seconds radixSort
+Sortare corecta 0.004002809524536133 seconds mergeSort
+Sortare corecta 0.002001047134399414 seconds shellSort
+Sortare corecta 0.08207416534423828 seconds bubbleSort
+Sortare corecta 0.002002239227294922 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  1000000 :
+Sortare corecta 0.0470428466796875 seconds insertionSort
+Sortare corecta 0.17515945434570312 seconds countSort
+Sortare corecta 0.0010008811950683594 seconds radixSort
+Sortare corecta 0.0040035247802734375 seconds mergeSort
+Sortare corecta 0.0010018348693847656 seconds shellSort
+Sortare corecta 0.08207440376281738 seconds bubbleSort
+Sortare corecta 0.002001047134399414 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  10000000 :
+Sortare corecta 0.05004572868347168 seconds insertionSort
+Sortare corecta 1.7786169052124023 seconds countSort
+Sortare corecta 0.0010001659393310547 seconds radixSort
+Sortare corecta 0.004004240036010742 seconds mergeSort
+Sortare corecta 0.002001047134399414 seconds shellSort
+Sortare corecta 0.07907247543334961 seconds bubbleSort
+Sortare corecta 0.002001523971557617 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
+
+
+N =  1000  Max =  100000000 :
+Sortare corecta 0.049044132232666016 seconds insertionSort
+Sortare corecta 17.647035837173462 seconds countSort
+Sortare corecta 0.0010013580322265625 seconds radixSort
+Sortare corecta 0.0030024051666259766 seconds mergeSort
+Sortare corecta 0.001001119613647461 seconds shellSort
+Sortare corecta 0.07907247543334961 seconds bubbleSort
+Sortare corecta 0.002001523971557617 seconds radixSort_8
+Sortare gresita  radixSort_16
+Sortare corecta 0.0 seconds Default Python Sort
